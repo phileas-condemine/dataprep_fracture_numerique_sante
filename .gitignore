@@ -1,0 +1,8 @@
+.Rhistory
+.RData
+.Rproj.user
+data/
+rsconnect/
+rosm.cache/
+app_frac_num_sant/
+
